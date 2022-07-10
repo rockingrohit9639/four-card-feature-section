@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/rockingrohit9639/four-card-feature-section)
-- Live Site URL: [Github Pages](https://rockingrohit9639.github.io/four-card-feature-section/dist)
+- Live Site URL: [Github Pages](https://rockingrohit9639.github.io/four-card-feature-section/)
 
 ## My process
 
