@@ -101,7 +101,7 @@ footer {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
     gap: 1rem;
-    transform: translateY(-180px);
+    transform: translateY(-150px);
   }
   .card:nth-child(1) {
     grid-column: 1;
